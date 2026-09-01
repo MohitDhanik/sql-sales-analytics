@@ -1,0 +1,201 @@
+customer_id,customer_name,email,city,join_date
+C0001,Aaron Davis,aaron.davis1@email.com,Detroit,2022-05-21
+C0002,Lauren White,lauren.white2@email.com,Houston,2022-02-22
+C0003,Amber Rivera,amber.rivera3@email.com,Indianapolis,2022-10-30
+C0004,Samantha Williams,samantha.williams4@email.com,Detroit,2022-02-17
+C0005,Jennifer White,jennifer.white5@email.com,Detroit,2022-10-15
+C0006,Andrew Nguyen,andrew.nguyen6@email.com,San Francisco,2022-04-23
+C0007,Nathan Campbell,nathan.campbell7@email.com,Boston,2022-01-04
+C0008,Frank Taylor,frank.taylor8@email.com,Portland,2022-06-24
+C0009,Nicole Moore,nicole.moore9@email.com,Charlotte,2022-06-22
+C0010,Chris Garcia,chris.garcia10@email.com,Los Angeles,2022-02-19
+C0011,Brandon Allen,brandon.allen11@email.com,New York,2022-01-23
+C0012,Gary Adams,gary.adams12@email.com,Omaha,2022-07-13
+C0013,Jessica Turner,jessica.turner13@email.com,Philadelphia,2022-11-18
+C0014,Amy Sanchez,amy.sanchez14@email.com,New Orleans,2022-12-27
+C0015,David Williams,david.williams15@email.com,Nashville,2022-05-29
+C0016,Jessica White,jessica.white16@email.com,Columbus,2022-07-14
+C0017,Nicole Adams,nicole.adams17@email.com,Buffalo,2022-03-25
+C0018,Hannah Allen,hannah.allen18@email.com,Charlotte,2022-12-10
+C0019,Nicole Morris,nicole.morris19@email.com,Cleveland,2022-11-08
+C0020,Aaron Taylor,aaron.taylor20@email.com,Memphis,2022-03-25
+C0021,Rebecca Wright,rebecca.wright21@email.com,Boston,2022-11-24
+C0022,Jeffrey Turner,jeffrey.turner22@email.com,Nashville,2022-12-17
+C0023,Kevin Rogers,kevin.rogers23@email.com,Milwaukee,2022-04-28
+C0024,Michael Walker,michael.walker24@email.com,Seattle,2022-05-18
+C0025,David Jackson,david.jackson25@email.com,Washington DC,2022-04-19
+C0026,Kimberly Carter,kimberly.carter26@email.com,Seattle,2022-11-26
+C0027,Rebecca Moore,rebecca.moore27@email.com,New York,2022-03-13
+C0028,Lauren Rivera,lauren.rivera28@email.com,New York,2022-10-27
+C0029,Samantha Campbell,samantha.campbell29@email.com,Seattle,2022-07-05
+C0030,Joshua Wilson,joshua.wilson30@email.com,San Diego,2022-02-16
+C0031,Frank Brown,frank.brown31@email.com,Omaha,2022-03-20
+C0032,Aaron Taylor,aaron.taylor32@email.com,Portland,2022-11-02
+C0033,David Wright,david.wright33@email.com,Los Angeles,2022-11-02
+C0034,Rebecca Perez,rebecca.perez34@email.com,New York,2022-10-11
+C0035,James Flores,james.flores35@email.com,Omaha,2022-12-16
+C0036,Eric Cook,eric.cook36@email.com,Boston,2022-11-25
+C0037,Megan Davis,megan.davis37@email.com,Philadelphia,2022-08-11
+C0038,Matthew Adams,matthew.adams38@email.com,Chicago,2022-05-15
+C0039,Robert Cook,robert.cook39@email.com,Miami,2022-09-17
+C0040,Chris Edwards,chris.edwards40@email.com,Baltimore,2022-11-24
+C0041,Robert Parker,robert.parker41@email.com,New Orleans,2022-03-20
+C0042,Hannah Cook,hannah.cook42@email.com,Atlanta,2022-10-04
+C0043,Sandra Perez,sandra.perez43@email.com,Chicago,2022-11-03
+C0044,Kevin Carter,kevin.carter44@email.com,Detroit,2022-02-27
+C0045,Hannah Lee,hannah.lee45@email.com,Memphis,2022-01-30
+C0046,Lauren Phillips,lauren.phillips46@email.com,Indianapolis,2022-02-13
+C0047,Gary Carter,gary.carter47@email.com,Cleveland,2022-09-30
+C0048,Sandra Wilson,sandra.wilson48@email.com,Houston,2022-12-04
+C0049,Adam Turner,adam.turner49@email.com,Atlanta,2022-05-16
+C0050,Melissa Parker,melissa.parker50@email.com,Portland,2022-04-19
+C0051,Eric Cook,eric.cook51@email.com,New Orleans,2023-01-01
+C0052,Rachel King,rachel.king52@email.com,Buffalo,2022-08-13
+C0053,Melissa Baker,melissa.baker53@email.com,Omaha,2022-05-07
+C0054,Joshua Jones,joshua.jones54@email.com,Pittsburgh,2022-01-11
+C0055,Heather Turner,heather.turner55@email.com,Nashville,2022-10-29
+C0056,Joshua Smith,joshua.smith56@email.com,Cleveland,2022-12-29
+C0057,Aaron Brown,aaron.brown57@email.com,Nashville,2022-02-04
+C0058,Michael Hall,michael.hall58@email.com,Cleveland,2022-09-21
+C0059,Lauren Thompson,lauren.thompson59@email.com,San Diego,2022-04-20
+C0060,Eric Wilson,eric.wilson60@email.com,Las Vegas,2022-05-05
+C0061,Adam Scott,adam.scott61@email.com,New Orleans,2022-02-18
+C0062,Chris Stewart,chris.stewart62@email.com,Portland,2022-07-01
+C0063,Samantha Scott,samantha.scott63@email.com,Phoenix,2022-01-28
+C0064,Amber Collins,amber.collins64@email.com,Columbus,2022-02-01
+C0065,Brittany Murphy,brittany.murphy65@email.com,Pittsburgh,2022-02-25
+C0066,Lauren Thomas,lauren.thomas66@email.com,New Orleans,2022-10-02
+C0067,Nathan Wilson,nathan.wilson67@email.com,Portland,2022-04-04
+C0068,Nicole Adams,nicole.adams68@email.com,Memphis,2022-02-08
+C0069,Nathan Turner,nathan.turner69@email.com,Columbus,2022-01-26
+C0070,Kimberly Roberts,kimberly.roberts70@email.com,Chicago,2022-02-17
+C0071,Frank Harris,frank.harris71@email.com,Atlanta,2022-07-28
+C0072,Christina Nelson,christina.nelson72@email.com,Charlotte,2022-07-25
+C0073,Emily Taylor,emily.taylor73@email.com,Los Angeles,2022-01-02
+C0074,Tyler Martin,tyler.martin74@email.com,Phoenix,2022-05-27
+C0075,Samantha Morris,samantha.morris75@email.com,San Diego,2022-03-21
+C0076,Andrew Young,andrew.young76@email.com,Charlotte,2022-01-30
+C0077,Heather Rivera,heather.rivera77@email.com,Milwaukee,2022-06-10
+C0078,Emily Brown,emily.brown78@email.com,Las Vegas,2022-09-15
+C0079,Melissa Taylor,melissa.taylor79@email.com,Milwaukee,2022-09-18
+C0080,Jessica Anderson,jessica.anderson80@email.com,Cleveland,2022-11-01
+C0081,David Flores,david.flores81@email.com,Memphis,2022-07-26
+C0082,Ashley Phillips,ashley.phillips82@email.com,Memphis,2022-10-24
+C0083,Timothy Williams,timothy.williams83@email.com,Indianapolis,2022-08-03
+C0084,Jacob Campbell,jacob.campbell84@email.com,Washington DC,2022-05-14
+C0085,Jennifer Stewart,jennifer.stewart85@email.com,Washington DC,2022-05-03
+C0086,Ryan King,ryan.king86@email.com,Houston,2022-12-10
+C0087,Kimberly Lee,kimberly.lee87@email.com,Phoenix,2022-06-11
+C0088,Frank Jones,frank.jones88@email.com,Chicago,2022-08-23
+C0089,Amy Phillips,amy.phillips89@email.com,Columbus,2022-02-07
+C0090,Eric Jackson,eric.jackson90@email.com,New York,2022-03-09
+C0091,Brandon Jones,brandon.jones91@email.com,Memphis,2022-07-09
+C0092,Justin Taylor,justin.taylor92@email.com,Denver,2022-10-06
+C0093,Elizabeth Lee,elizabeth.lee93@email.com,Chicago,2022-12-08
+C0094,Michelle Lee,michelle.lee94@email.com,Columbus,2022-03-10
+C0095,Ryan Davis,ryan.davis95@email.com,Columbus,2022-10-11
+C0096,Amanda Thompson,amanda.thompson96@email.com,Philadelphia,2022-11-06
+C0097,Jennifer Nguyen,jennifer.nguyen97@email.com,Pittsburgh,2022-04-15
+C0098,Amber Edwards,amber.edwards98@email.com,New York,2022-09-16
+C0099,Christina Martin,christina.martin99@email.com,Milwaukee,2022-02-17
+C0100,Aaron Green,aaron.green100@email.com,Boston,2022-01-23
+C0101,James Hall,james.hall101@email.com,Houston,2022-11-23
+C0102,Ryan Taylor,ryan.taylor102@email.com,Denver,2022-10-10
+C0103,Elizabeth Green,elizabeth.green103@email.com,Chicago,2022-02-27
+C0104,David Morris,david.morris104@email.com,Dallas,2022-10-07
+C0105,Michael Sanchez,michael.sanchez105@email.com,Dallas,2022-08-09
+C0106,Daniel Williams,daniel.williams106@email.com,Baltimore,2022-07-06
+C0107,Michael Allen,michael.allen107@email.com,Charlotte,2022-12-16
+C0108,Lauren Stewart,lauren.stewart108@email.com,Columbus,2022-07-01
+C0109,Sandra Turner,sandra.turner109@email.com,San Francisco,2022-11-14
+C0110,Linda Moore,linda.moore110@email.com,Memphis,2022-03-25
+C0111,Stephanie Scott,stephanie.scott111@email.com,Detroit,2022-04-02
+C0112,Linda Hall,linda.hall112@email.com,San Francisco,2022-12-09
+C0113,Linda Harris,linda.harris113@email.com,Boston,2022-03-23
+C0114,Jeffrey Miller,jeffrey.miller114@email.com,Los Angeles,2022-01-20
+C0115,Adam White,adam.white115@email.com,New Orleans,2022-08-24
+C0116,Brandon Lee,brandon.lee116@email.com,Nashville,2022-04-25
+C0117,Sarah Stewart,sarah.stewart117@email.com,New Orleans,2022-07-24
+C0118,Megan Thompson,megan.thompson118@email.com,Cleveland,2022-05-23
+C0119,Brandon Collins,brandon.collins119@email.com,Seattle,2022-12-14
+C0120,Eric Hall,eric.hall120@email.com,Detroit,2022-03-01
+C0121,Ryan Anderson,ryan.anderson121@email.com,New York,2022-01-20
+C0122,Chris Parker,chris.parker122@email.com,Portland,2022-06-26
+C0123,Gary Walker,gary.walker123@email.com,Portland,2022-11-07
+C0124,Robert Davis,robert.davis124@email.com,Los Angeles,2022-10-23
+C0125,Andrew Martin,andrew.martin125@email.com,Minneapolis,2022-12-29
+C0126,Samantha Smith,samantha.smith126@email.com,New Orleans,2022-07-06
+C0127,Samantha Jones,samantha.jones127@email.com,Pittsburgh,2022-11-16
+C0128,Kevin Stewart,kevin.stewart128@email.com,Omaha,2022-06-03
+C0129,Robert Lee,robert.lee129@email.com,San Francisco,2022-06-17
+C0130,Brittany Morris,brittany.morris130@email.com,Philadelphia,2022-10-11
+C0131,Daniel Thomas,daniel.thomas131@email.com,San Francisco,2022-12-07
+C0132,Tyler Flores,tyler.flores132@email.com,Miami,2022-11-12
+C0133,Steven Lee,steven.lee133@email.com,Seattle,2022-10-08
+C0134,James Lee,james.lee134@email.com,Philadelphia,2022-04-18
+C0135,Samantha Campbell,samantha.campbell135@email.com,Washington DC,2022-08-27
+C0136,Nathan Baker,nathan.baker136@email.com,Charlotte,2022-09-19
+C0137,Adam Rivera,adam.rivera137@email.com,Atlanta,2022-12-04
+C0138,Jessica Young,jessica.young138@email.com,Pittsburgh,2022-02-17
+C0139,Frank Harris,frank.harris139@email.com,Baltimore,2022-04-26
+C0140,Andrew Moore,andrew.moore140@email.com,Detroit,2022-01-24
+C0141,Lauren Nelson,lauren.nelson141@email.com,Cleveland,2022-08-22
+C0142,Zachary Edwards,zachary.edwards142@email.com,New Orleans,2022-12-23
+C0143,Tyler Carter,tyler.carter143@email.com,Seattle,2022-05-05
+C0144,Amanda Collins,amanda.collins144@email.com,Chicago,2022-02-24
+C0145,Sandra Green,sandra.green145@email.com,Nashville,2022-04-01
+C0146,Jeffrey Perez,jeffrey.perez146@email.com,Phoenix,2022-01-26
+C0147,Michelle Harris,michelle.harris147@email.com,Omaha,2022-08-22
+C0148,Daniel Adams,daniel.adams148@email.com,Washington DC,2022-08-15
+C0149,Amy Murphy,amy.murphy149@email.com,Portland,2022-10-08
+C0150,Nathan Taylor,nathan.taylor150@email.com,Las Vegas,2022-08-19
+C0151,Ryan Cook,ryan.cook151@email.com,Memphis,2022-11-23
+C0152,Nicole Rogers,nicole.rogers152@email.com,San Diego,2022-11-17
+C0153,Lauren Thompson,lauren.thompson153@email.com,Denver,2022-02-09
+C0154,Elizabeth Young,elizabeth.young154@email.com,Memphis,2022-05-20
+C0155,Megan Walker,megan.walker155@email.com,Indianapolis,2022-03-12
+C0156,Amanda White,amanda.white156@email.com,Los Angeles,2022-12-22
+C0157,Amanda Nguyen,amanda.nguyen157@email.com,Charlotte,2022-02-02
+C0158,Zachary Scott,zachary.scott158@email.com,Pittsburgh,2022-10-05
+C0159,Rebecca Scott,rebecca.scott159@email.com,Milwaukee,2022-04-16
+C0160,Zachary Wright,zachary.wright160@email.com,Detroit,2022-10-22
+C0161,Tyler Nelson,tyler.nelson161@email.com,Chicago,2022-06-30
+C0162,Rachel Cook,rachel.cook162@email.com,Los Angeles,2022-08-03
+C0163,Eric Rivera,eric.rivera163@email.com,Nashville,2022-09-07
+C0164,Joshua Thompson,joshua.thompson164@email.com,Portland,2022-09-06
+C0165,Sarah Wright,sarah.wright165@email.com,Pittsburgh,2022-12-09
+C0166,Amber King,amber.king166@email.com,Atlanta,2022-08-28
+C0167,Daniel Evans,daniel.evans167@email.com,Detroit,2022-07-21
+C0168,Heather Phillips,heather.phillips168@email.com,Detroit,2022-02-12
+C0169,Kimberly Green,kimberly.green169@email.com,Houston,2022-08-25
+C0170,Stephanie Brown,stephanie.brown170@email.com,New York,2022-07-14
+C0171,Kevin Jackson,kevin.jackson171@email.com,Phoenix,2022-06-17
+C0172,Megan Cook,megan.cook172@email.com,Los Angeles,2022-05-23
+C0173,Frank Scott,frank.scott173@email.com,New York,2022-02-11
+C0174,Adam Johnson,adam.johnson174@email.com,Milwaukee,2022-06-29
+C0175,Joshua Collins,joshua.collins175@email.com,Cleveland,2022-11-30
+C0176,Michael Cook,michael.cook176@email.com,Detroit,2022-05-07
+C0177,Andrew Johnson,andrew.johnson177@email.com,Dallas,2022-05-03
+C0178,Daniel Nelson,daniel.nelson178@email.com,Omaha,2022-10-16
+C0179,Jennifer Adams,jennifer.adams179@email.com,New York,2022-07-08
+C0180,Matthew Parker,matthew.parker180@email.com,Omaha,2022-03-25
+C0181,Rachel Miller,rachel.miller181@email.com,Detroit,2022-06-09
+C0182,Steven Flores,steven.flores182@email.com,Los Angeles,2022-07-23
+C0183,Elizabeth Thomas,elizabeth.thomas183@email.com,Cleveland,2022-10-31
+C0184,Jeffrey Edwards,jeffrey.edwards184@email.com,Memphis,2022-02-22
+C0185,Jeffrey Rogers,jeffrey.rogers185@email.com,Baltimore,2022-12-17
+C0186,Timothy Davis,timothy.davis186@email.com,Minneapolis,2022-06-27
+C0187,Eric Green,eric.green187@email.com,Buffalo,2022-02-05
+C0188,Robert Collins,robert.collins188@email.com,Pittsburgh,2022-01-07
+C0189,Zachary Carter,zachary.carter189@email.com,Columbus,2022-08-10
+C0190,Hannah Edwards,hannah.edwards190@email.com,Phoenix,2022-12-29
+C0191,Amanda Green,amanda.green191@email.com,Miami,2022-09-25
+C0192,Kimberly Thompson,kimberly.thompson192@email.com,Las Vegas,2022-08-27
+C0193,Samantha Murphy,samantha.murphy193@email.com,Boston,2022-06-15
+C0194,Lauren Garcia,lauren.garcia194@email.com,Boston,2022-08-19
+C0195,Lauren Cook,lauren.cook195@email.com,Phoenix,2022-10-19
+C0196,Amy Stewart,amy.stewart196@email.com,Los Angeles,2022-06-22
+C0197,Sarah Carter,sarah.carter197@email.com,Washington DC,2022-04-04
+C0198,Christina Jackson,christina.jackson198@email.com,Newark,2022-05-13
+C0199,Megan Thompson,megan.thompson199@email.com,Boston,2022-10-12
+C0200,James Perez,james.perez200@email.com,New Orleans,2022-02-13

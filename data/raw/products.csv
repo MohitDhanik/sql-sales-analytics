@@ -1,0 +1,31 @@
+product_id,product_name,category,cost_price,base_price
+P001,"4K Smart TV 55""",Electronics,320.0,649.99
+P002,Wireless Headphones,Electronics,45.0,129.99
+P003,"Laptop Pro 15""",Electronics,550.0,1199.99
+P004,Bluetooth Speaker,Electronics,25.0,79.99
+P005,Smartphone X12,Electronics,380.0,899.99
+P006,Gaming Console,Electronics,280.0,499.99
+P007,Running Jacket,Clothing,22.0,79.99
+P008,Denim Jeans,Clothing,18.0,59.99
+P009,Wool Sweater,Clothing,20.0,69.99
+P010,Athletic Shorts,Clothing,10.0,34.99
+P011,Formal Shirt,Clothing,15.0,49.99
+P012,Winter Boots,Clothing,45.0,129.99
+P013,Organic Coffee 1kg,Food,8.0,24.99
+P014,Premium Tea Set,Food,12.0,39.99
+P015,Protein Bars 30pk,Food,15.0,44.99
+P016,Olive Oil 2L,Food,9.0,29.99
+P017,Dark Chocolate Box,Food,6.0,19.99
+P018,Multivitamin 90ct,Food,10.0,34.99
+P019,Air Purifier,Home,55.0,149.99
+P020,Coffee Maker Deluxe,Home,40.0,109.99
+P021,Robot Vacuum,Home,120.0,299.99
+P022,Scented Candle Set,Home,8.0,29.99
+P023,Bed Sheet Set Queen,Home,25.0,69.99
+P024,Smart Thermostat,Home,60.0,159.99
+P025,Yoga Mat Premium,Sports,12.0,39.99
+P026,Dumbbell Set 20kg,Sports,40.0,99.99
+P027,Cycling Helmet,Sports,25.0,74.99
+P028,Running Shoes,Sports,45.0,119.99
+P029,Tennis Racket Pro,Sports,30.0,89.99
+P030,Swim Goggles,Sports,6.0,24.99
